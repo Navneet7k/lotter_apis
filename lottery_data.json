@@ -1,5 +1,25 @@
 [
 {
+"name": "NIRMAL(NR-300)",
+"date": "28/10/2022",
+"link": "viewlotisresult.php?drawserial=73956"
+},
+{
+"name": "KARUNYA PLUS(KN-443)",
+"date": "27/10/2022",
+"link": "viewlotisresult.php?drawserial=73955"
+},
+{
+"name": "AKSHAYA(AK-572)",
+"date": "26/10/2022",
+"link": "viewlotisresult.php?drawserial=73954"
+},
+{
+"name": "STHREE-SAKTHI(SS-336)",
+"date": "25/10/2022",
+"link": "viewlotisresult.php?drawserial=73953"
+},
+{
 "name": "WIN-WIN(W-690)",
 "date": "24/10/2022",
 "link": "viewlotisresult.php?drawserial=73952"
@@ -178,25 +198,5 @@
 "name": "THIRUVONAM BUMPER 2022(BR-87)",
 "date": "18/09/2022",
 "link": "viewlotisresult.php?drawserial=73917"
-},
-{
-"name": "KARUNYA(KR-567)",
-"date": "17/09/2022",
-"link": "viewlotisresult.php?drawserial=73916"
-},
-{
-"name": "NIRMAL(NR-294)",
-"date": "16/09/2022",
-"link": "viewlotisresult.php?drawserial=73915"
-},
-{
-"name": "KARUNYA PLUS(KN-437)",
-"date": "15/09/2022",
-"link": "viewlotisresult.php?drawserial=73914"
-},
-{
-"name": "AKSHAYA(AK-566)",
-"date": "14/09/2022",
-"link": "viewlotisresult.php?drawserial=73913"
 }
 ]
